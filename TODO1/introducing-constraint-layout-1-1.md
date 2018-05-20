@@ -94,7 +94,7 @@ profile.visibility = VISIBLE
 
 ![](https://cdn-images-1.medium.com/max/800/1*dkCMb35o4HN7SVX8S1N3ig.gif)
 
-您可以通过指定要偏移的**半径**和**角度来创建径向菜单。
+您可以通过指定要偏移的**半径**和**角度**来创建径向菜单。
 
 创建圆形约束时，请注意，角度从顶部开始并顺时针进行。在这个例子中，你将按如下方式指定中间的 fab：
 
